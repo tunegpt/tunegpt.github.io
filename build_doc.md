@@ -24,11 +24,19 @@ ruby -v
 ```console
 gem install jekyll
 ```
+# Using Jekyll
+
 [Creating a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+
+# Local test
 
 [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
 ```console
-http://127.0.0.1:4000/website/
+cd docs
+bundle install
+bundle exec jekyll serve
 ```
+
+Navigate your browser to --> `http://127.0.0.1:4000/website/`
 
