@@ -16,9 +16,9 @@ orders or magnitude.
 
 What does this mean?
 
-- New automation that was previously not feasible might now be feasible.
-- Your competitors have a new tool to beat you.
-- You current language classifier project might need to be restructured.
+- You need to consider what new automation and information that was previously not feasible to get might now be feasible.
+- You need to consider whether your competitors have a new tool to beat you with.
+- You need to consider whether current ML language classifier project needs to be restructured.
 
 
 ## Quiz
