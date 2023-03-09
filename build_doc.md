@@ -46,9 +46,10 @@ mkdir docs
 cd docs
 ```
 
-Edit Gemfile by adding this line
+Edit Gemfile by editing these lines
 
 ```
+url: "http://tunegpt.ai"
 gem "github-pages", "~> 228", group: :jekyll_plugins
 ```
 
