@@ -1,38 +1,36 @@
-# tunegpt.github.io
+# Tune GPT Consulting
 
-Consulting website for fine-tuning GPT to help businesses make AI language classifier prototypes.
+## Objective 
 
-# Pre-reqs
+We will fine-tuning GPT with your expertise and data to make you an AI language classifier prototype.
 
-- [Linking A Custom Domain To Github Pages](https://richpauloo.github.io/2019-11-17-Linking-a-Custom-Domain-to-Github-Pages/)
+## Context
 
-```console
-brew install chruby ruby-install xz
-```
+On March 1, OpenAI announced the release of API access to ChatGPT.
 
-```console
-ruby-install ruby 3.1.3
-```
+What's does this mean for your company?
 
-```console
-echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
-echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
-echo "chruby ruby-3.1.3" >> ~/.zshrc # run 'chruby' to see actual version
-```
-Quick test
+The cost to develop a prototype langauge based prediction service has dropped by
+orders or magnitude -- in other words, new project experiments are now feasible with the new automation tool.
 
-```console
-ruby -v
-```
+Below is a quiz for those already working on a langauge classification feature.
 
-```console
-gem install jekyll
-```
-[Creating a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+- Do you have a working design doc explaining your domain model (ie., subject matter expert's mental model?
+- Are you continually narrowing the scope of your classifier as you find edge cases that are too expensive to solve at the moment?
+- Are you experimenting with GPT instead of rolling your on language ML model?
+- Are you experimenting with GPT, which is a hosted service, before jumping into MLOps work?
+- Are you experimenting with GPT before you start human labeling (annotation)?
 
-```console
-http://127.0.0.1:4000/website/
-```
+
+If you answer no to any of these questions above we think you are headed in the
+wrong direction.
+
+# Who we are
+
+- [Boris Dev](https://www.linkedin.com/in/boris-dev/)
+- [Shawn Larson](https://www.linkedin.com/in/shawn-larson-ai/)
+
+## Contact us at
+
 
