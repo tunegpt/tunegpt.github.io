@@ -39,6 +39,4 @@ wrong direction.
 - [Boris Dev](https://www.linkedin.com/in/boris-dev/)
 - [Shawn Larson](https://www.linkedin.com/in/shawn-larson-ai/)
 
-## Contact us at
-
-[TODO]
+## Contact us at `boris@gpttune.ai`
