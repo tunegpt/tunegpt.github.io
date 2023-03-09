@@ -1,2 +1,9 @@
 # tunegpt.github.io
-Website for Tune GPT Consulting
+
+Consulting website for fine-tuning GPT
+
+# Test locally with 
+
+```console
+python -m http.server
+```
