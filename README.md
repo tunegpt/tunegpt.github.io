@@ -2,8 +2,7 @@
 
 ## Objective 
 
-We will fine-tune GPT to make you an AI language classifier prototype, if its
-feasible.
+We will fine-tune GPT to make you an AI language classifier prototype. 
 
 ## Context
 
