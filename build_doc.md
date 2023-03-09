@@ -22,21 +22,39 @@ ruby -v
 ```
 
 ```console
-gem install jekyll
+gem install jekyll -v 3.9.3
 ```
 # Using Jekyll
 
 [Creating a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+
+```console
+$ mkdir docs
+# Creates a new folder called docs
+$ cd docs
+$ jekyll new --skip-bundle .
+# Creates a Jekyll site in the current directory
+```
+
 
 # Local test
 
 [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
 
 ```console
+mkdir docs
 cd docs
+```
+
+Edit Gemfile by adding this line
+
+```
+gem "github-pages", "~> 228", group: :jekyll_plugins
+```
+
+```console
 bundle install
 bundle exec jekyll serve
 ```
 
 Navigate your browser to --> `http://127.0.0.1:4000/website/`
-
