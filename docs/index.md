@@ -17,7 +17,7 @@ On March 1, OpenAI announced the release of API access to ChatGPT.
 
 **What's does this mean for your company?**
 
-The cost to develop a language based prediction service has dropped by orders or magnitude. 
+The cost to develop a language based prediction service has dropped by orders of magnitude. 
 
 - What information gathering toil is suddenly feasible for you to automate?
 - How can fine-tuning GPT jump start your current ML language classifier project?
