@@ -24,10 +24,10 @@ The cost to develop a language based prediction service has dropped by orders of
 
 **The CTO's four point pre-flight safety check**
 
-1. Do you have a high-level, living, design document (Rosetta Stone) to reach consensus on a translation of your subject matter expert's mental model?
-2. Do you continuously narrow the scope when you find edge cases that are too expensive to solve using AI at the moment or can be solved with cheap expert rules?
-3. Did you experiment with GPT chain prompting, vector indexing, and fine-tuning with programmatic labeling?
-4. Did you do a cost benefit analysis between a hosted language model versus rolling your own language model or a hybrid approach? 
+1. Do you continuously update a high-level design document (Rosetta Stone) as you reach consensus on translating the mental model of your subject matter experts?
+2. Do you continuously narrow the scope when you find edge cases that are too expensive to solve using AI, at the moment, or can be solved with cheap expert rules?
+3. Prior to investing in a human labeling service, did you experiment with GPT chain prompting, vector indexing, and fine-tuning with programmatic labeling? 
+4. Prior to investing in rolling your own language model, did you do a cost benefit analysis on using a hosted language model or a hybrid approach? 
 
 ## About
 
