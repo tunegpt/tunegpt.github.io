@@ -22,15 +22,12 @@ The cost to develop a language based prediction service has dropped by orders of
 - What information gathering toil is suddenly feasible for you to automate?
 - How can fine-tuning GPT jump start your current ML language classifier project?
 
-**Checklist**
+**The CTO's four point pre-flight safety check**
 
-- Will you experiment with GPT before you start rolling your on language ML model? 
-- Will you experiment with GPT, which is hosted, before you start MLOps work?
-- Will you experiment with GPT before you start human labeling (annotation)?
-- Are you continually narrowing the scope of your classifier as you find edge cases that are too expensive to solve at the moment?
-- Will you have a working design doc explaining your domain model (ie., subject matter expert's mental model) before you start experiments?
-
-If you answered no to any of these questions above, then you might be headed in the wrong direction.
+1. Do you have a high-level, living, design document (Rosetta Stone) to reach consensus on a translation of your subject matter expert's mental model?
+2. Do you continuously narrow the scope when you find edge cases that are too expensive to solve using AI at the moment or can be solved with cheap expert rules?
+3. Did you experiment with GPT chain prompting, vector indexing, and fine-tuning with programmatic labeling?
+4. Did you do a cost benefit analysis between a hosted language model versus rolling your own language model or a hybrid approach? 
 
 ## About
 
