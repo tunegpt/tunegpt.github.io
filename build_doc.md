@@ -58,4 +58,15 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Navigate your browser to --> `http://127.0.0.1:4000/website/`
+Navigate your browser to --> `http://127.0.0.1:4000`
+
+
+# Customized
+
+https://stackoverflow.com/questions/43670690/suppress-blog-footer-in-jekyll-kramdown
+
+```console
+(base) ➜  docs git:(main) ✗ bundle show minima
+/Users/borisdev/.gem/ruby/3.1.3/gems/minima-2.5.1
+(base) ➜  docs git:(main) ✗ cp -r /Users/borisdev/.gem/ruby/3.1.3/gems/minima-2.5.1/_includes .
+```

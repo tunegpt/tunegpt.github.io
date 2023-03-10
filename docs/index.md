@@ -32,7 +32,9 @@ The cost to develop a language based prediction service has dropped by orders of
 
 If you answered no to any of these questions above, then you might be headed in the wrong direction.
 
-## Who we are
+## About
 
 - [Boris Dev](https://www.linkedin.com/in/boris-dev/)
 - [Shawn Larson](https://www.linkedin.com/in/shawn-larson-ai/)
+
+Contact: contact@tunegpt.ai
