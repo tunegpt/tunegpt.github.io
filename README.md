@@ -1,41 +1,37 @@
-# Tune GPT Consulting
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## Objective 
+layout: home
+---
 
-We will fine-tune GPT to make you an AI language classifier prototype. 
 
-## Context
+**Fine-tune GPT to power your next AI feature.**
+
+- We can make you a language classifier prototype.
+- We can do a feasibility analysis on your language AI ideas.
+
+**What's changed?**
 
 On March 1, OpenAI announced the release of API access to ChatGPT.
 
-What's does this mean for your company?
+**What's does this mean for your company?**
 
-The cost to develop a prototype language based prediction service has dropped by
-orders or magnitude. 
+The cost to develop a language based prediction service has dropped by orders of magnitude. 
 
-What does this mean?
+- What information gathering toil is suddenly feasible for you to automate?
+- How can fine-tuning GPT jump start your current ML language classifier project?
 
-- You need to consider what new automation and information that was previously not feasible to get might now be feasible.
-- You need to consider whether your competitors have a new tool to beat you with.
-- You need to consider whether current ML language classifier project needs to be restructured.
+**The CTO's four point pre-flight safety check**
 
+1. Do you continuously update a high-level design document (Rosetta Stone) as you reach consensus on translating the mental model of your subject matter experts?
+2. Do you continuously narrow the scope when you find edge cases that are too expensive to solve using AI, at the moment, or can be solved with cheap expert rules?
+3. Prior to investing in a human labeling service, did you experiment with GPT chain prompting, vector indexing, and fine-tuning with programmatic labeling? 
+4. Prior to investing in rolling your own language model, did you do a cost benefit analysis on using a hosted language model or a hybrid approach? 
 
-## Quiz
-
-Take this quiz if you are already working on a language classification feature.
-
-- Did you start rolling your on language ML model before experimenting with GPT?
-- Did you jump into MLOps work before experimenting with GPT?
-- Did you start human labeling (annotation) before experimenting with GPT?
-- Are you continually narrowing the scope of your classifier as you find edge cases that are too expensive to solve at the moment?
-- Do you have a working design doc explaining your domain model (ie., subject matter expert's mental model?
-
-If you answer no to any of these questions above, then we think you might be headed in the
-wrong direction.
-
-# Who we are
+## About
 
 - [Boris Dev](https://www.linkedin.com/in/boris-dev/)
 - [Shawn Larson](https://www.linkedin.com/in/shawn-larson-ai/)
 
-## Contact us at `boris@gpttune.ai`
+Contact: contact@tunegpt.ai
