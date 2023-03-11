@@ -11,6 +11,7 @@ layout: home
 
 [60-80% of AI projects are failing](https://www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/?sh=2db4b23117cb).
 
+Some one must get down and dirty with the data, and document the mental model of your customer (or subject matter expert).
 
 1. The sooner your can map your customer's language mental model to the data, the sooner you can make a prototype.
 2. The sooner you make a prototype, the faster you can get feedback and progress.
