@@ -12,7 +12,7 @@ layout: home
 A root cause of language AI project failure is that no one owns getting down and
 dirty with the data. In other words, someone needs to understand and document
 the nuanced concepts behind the language your are trying to predict. Eric Evan's
-in his book Domain Driven Design coined a term for his, **Knowledge Crunching**.
+in his book Domain Driven Design coined a term for this, **Knowledge Crunching**.
 
 **The four point pre-flight safety check for your CTO**
 
