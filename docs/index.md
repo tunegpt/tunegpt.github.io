@@ -19,7 +19,7 @@ Some one must get down and dirty with the data, and document the mental model of
 ## What's new?
 
 - On March 1, OpenAI announced the release of API access to ChatGPT, a hosted language model.
-- The cost to develop a language based prediction service has dropped by orders of magnitude, if you restructure. 
+- The cost to develop a language based prediction service has dropped by orders of magnitude, if you restructure your development effort. 
 
 ## Gemba
 
