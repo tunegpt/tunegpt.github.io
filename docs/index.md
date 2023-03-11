@@ -13,10 +13,13 @@ layout: home
 
 Some one must get down and dirty with the data, and document the mental model of your customer (or subject matter expert).
 
-- The sooner your can map your customer's language mental model to the data, the sooner you can make a prototype.
-- The sooner you make a prototype, the faster you can get feedback and progress.
-- On March 1, OpenAI announced the release of API access to ChatGPT, a hosted language model.
-- The cost to develop a language based prediction service has dropped by orders of magnitude, if you restructure your development effort. 
+The sooner your can map your customer's language mental model to the data, the
+sooner you can make a prototype. The sooner you make a prototype, the faster you
+can get feedback and progress.
+
+On March 1, OpenAI announced the release of API access to ChatGPT, a hosted
+language model. The cost to develop a language based prediction service has
+dropped by orders of magnitude, if you restructure your development effort. 
 
 ## Gemba
 
@@ -29,16 +32,14 @@ A key principle in Toyota's Lean manufacturing is Go See or Gemba, which means
 truth can be learned only from reports or numbers". For your language AI feature
 its means getting a prototype in front of customers and watching their reaction
 to see if you are on the right track. 
-Some one must get down and dirty with the data, and document the mental model of your customer (or subject matter expert). 
-Eric Evan coined a term for this, Knowledge Crunching. 
 
 
 ## The CTO's four point pre-flight safety check in making a prototype
 
-1. Knowledge Crunching: Do you continuously update a high-level design document (Rosetta Stone) as you reach consensus on translating the mental model of your subject matter experts?
-2. Scope: Do you continuously narrow the scope when you find edge cases that are too expensive to solve using AI, at the moment, or can be solved with cheap expert rules?
-3. Labeling as last resort: Prior to investing in a human labeling service, did you experiment with GPT chain prompting, vector indexing, and fine-tuning with programmatic labeling? 
-4. Custom model as last resort: Prior to investing in rolling your own language model, did you do a cost benefit analysis on using a hosted language model or a hybrid approach? 
+1. [Domain model](https://martinfowler.com/bliki/DomainDrivenDesign.html): Do you continuously update a high-level design document (Rosetta Stone) as you reach consensus on conflicts in translating the mental model of your subject matter experts?
+2. **Classifier scope:** Do you continuously narrow the scope of your classifier as you find edge cases that are too expensive to solve using AI, at the moment, or can be solved with cheap expert rules instead?
+3. **Human labeling (annotation):** Prior to investing in a human labeling service, did you experiment with GPT chain prompting, vector indexing, and fine-tuning with programmatic labeling? 
+4. **Hosting:** Prior to investing in rolling your own language model, did you do a cost benefit analysis on using a hosted language model or a hybrid approach instead? 
 
 
 Before investing lots of money checkout some shortcuts.
