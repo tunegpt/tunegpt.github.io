@@ -13,11 +13,8 @@ layout: home
 
 Some one must get down and dirty with the data, and document the mental model of your customer (or subject matter expert).
 
-1. The sooner your can map your customer's language mental model to the data, the sooner you can make a prototype.
-2. The sooner you make a prototype, the faster you can get feedback and progress.
-
-## What's new?
-
+- The sooner your can map your customer's language mental model to the data, the sooner you can make a prototype.
+- The sooner you make a prototype, the faster you can get feedback and progress.
 - On March 1, OpenAI announced the release of API access to ChatGPT, a hosted language model.
 - The cost to develop a language based prediction service has dropped by orders of magnitude, if you restructure your development effort. 
 
