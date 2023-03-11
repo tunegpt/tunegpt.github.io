@@ -34,8 +34,8 @@ lots of money checkout some shortcuts.
 | --------------------------------------------- | ---------------------- | -------------- | ----------- | ------------------------ |
 | expert rules                                  | $                      | None           | None        | None                     |
 | GPT with prompt engineering                   | $                      | None           | None        | None                     |
-| GPT with fine-tuning and programmtic labeling | $                      | $              | None        | None                     |
-| GPT with fine-tuning and human labeling       | $                      | $$             | None        | None                     |
+| GPT with fine-tuning w/ programmatic labeling | $                      | $              | None        | None                     |
+| GPT with fine-tuning w/ human labeling        | $                      | $$$            | None        | None                     |
 | GPT and roll your own model hybrid            | $                      | $$$            | $$$         | $$$                      |
 | Roll your own model                           | $                      | $$$            | $$$         | $$$                      |
 
