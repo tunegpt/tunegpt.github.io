@@ -12,8 +12,11 @@ layout: home
 
 [60-80% of AI projects are failing](https://www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/?sh=2db4b23117cb).
 
-This essay is aimed at CTOs developing an AI feature aimed at prediction in a niche
-business language domain, which requires special care. 
+This essay is aimed at CTOs developing an AI feature aimed at prediction in a
+niche business language domain, which requires special care. Crunching the
+knowledge of experts in a niche language domain is much more ambiguous than
+crunching numbers. Its requires [cognitive
+empathy](https://en.wikipedia.org/wiki/Empathy#Cognitive_empathy).
 
 - Did you start with a living document of the mental language model of your customer?
 - Did you start by putting a cheap prototype in front of your customer?
@@ -23,21 +26,20 @@ sooner you can make a prototype. The sooner you make a prototype, the faster you
 can get customer feedback. The sooner you get customer feedback the sooner you
 can refine.
 
-Crunching the knowledge of experts in a niche language domain is much more
-ambiguous than crunching numbers. Its requires [cognitive
-empathy](https://en.wikipedia.org/wiki/Empathy#Cognitive_empathy).
+The cost to develop a
+language based prediction service has dropped by orders of magnitude, if you
+restructure your development effort. 
 
+## What's new?
 
 A few months ago, Sam Altman (CEO of OpenAI) said he expects that the next
 unicorns will focus on fine-tuning models for various verticals
 ([interview](https://www.youtube.com/watch?v=WHoWGNQRXb0)). On March 1, [OpenAI
 announced](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) the
-release of API access to ChatGPT, a hosted language model. The cost to develop a
-language based prediction service has dropped by orders of magnitude, if you
-restructure your development effort. 
+release of API access to ChatGPT, a hosted language model. 
 
 
-## Why Gemba matters in niche language AI?
+## Use Gemba to restructure your development effort
 
 A key principle in Toyota's Lean manufacturing is Go See or Gemba, which means
 "go see with your own eyes, rather than sit behind desks or believe that the
